@@ -1,0 +1,13 @@
+@import url(reset.css);
+
+body {
+    margin: auto;
+    text-align: center;
+    color: #4a9fe9;
+}
+
+canvas {
+    padding: 0.5px;
+    border: 2px solid #AA076B;
+    background-color: #8c949b;
+}
